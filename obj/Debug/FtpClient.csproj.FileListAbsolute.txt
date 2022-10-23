@@ -1,0 +1,13 @@
+D:\RiderProj\Новая папка\FtpClient\obj\Debug\FtpClient.csproj.AssemblyReference.cache
+D:\RiderProj\Новая папка\FtpClient\obj\Debug\FtpClient.FileExistsDialog.resources
+D:\RiderProj\Новая папка\FtpClient\obj\Debug\FtpClient.Form1.resources
+D:\RiderProj\Новая папка\FtpClient\obj\Debug\FtpClient.csproj.GenerateResource.cache
+D:\RiderProj\Новая папка\FtpClient\obj\Debug\FtpClient.csproj.CoreCompileInputs.cache
+D:\RiderProj\Новая папка\FtpClient\bin\Debug\FtpClient.exe.config
+D:\RiderProj\Новая папка\FtpClient\bin\Debug\FtpClient.exe
+D:\RiderProj\Новая папка\FtpClient\bin\Debug\FtpClient.pdb
+D:\RiderProj\Новая папка\FtpClient\bin\Debug\CleverComponents.InetSuite.dll
+D:\RiderProj\Новая папка\FtpClient\bin\Debug\BouncyCastle.Crypto.dll
+D:\RiderProj\Новая папка\FtpClient\obj\Debug\FtpClient.csproj.CopyComplete
+D:\RiderProj\Новая папка\FtpClient\obj\Debug\FtpClient.exe
+D:\RiderProj\Новая папка\FtpClient\obj\Debug\FtpClient.pdb
